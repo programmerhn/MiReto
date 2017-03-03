@@ -8,7 +8,6 @@ import UIKit
 
 var numeros = 0...100
 
-
 print("NÚMERO\t\t\tREGLAS APLICADAS")
 
 for numero in numeros {
