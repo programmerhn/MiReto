@@ -10,8 +10,6 @@ enum Velocidades : Int{
     init( velocidadInicial : Velocidades ){
         self = velocidadInicial
     }
-    
-    
 }
 
 class Auto{
